@@ -1,0 +1,20 @@
+{
+  "item.webshooter.web_shooter": "Web Shooter",
+  "block.webshooter.web_trap": "Web",
+  "entity.webshooter.web_projectile": "Web",
+  "itemGroup.webshooter": "Web Shooter",
+  "key.categories.webshooter": "Web Shooter",
+  "key.webshooter.swing": "Swing (hold)",
+  "key.webshooter.shoot": "Shoot Web",
+  "key.webshooter.cycle": "Change Web Mode",
+  "mode.webshooter.swing": "Swing",
+  "mode.webshooter.combat": "Combat Web",
+  "mode.webshooter.bomb": "Web Bomb",
+  "mode.webshooter.shock": "Shock Web",
+  "message.webshooter.mode": "Web Shooter: %s",
+  "message.webshooter.no_anchor": "Nothing to attach a web to",
+  "tooltip.webshooter.mode": "Mode: %s",
+  "tooltip.webshooter.controls1": "Right-click: fire / hold to swing. Sneak + right-click: change mode",
+  "tooltip.webshooter.controls2": "Keys: G swing, R shoot, V change mode",
+  "tooltip.webshooter.inventory": "Keys work with it anywhere in your inventory"
+}

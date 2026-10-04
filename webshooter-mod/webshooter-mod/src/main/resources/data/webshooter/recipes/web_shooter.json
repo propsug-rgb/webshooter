@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["ISI", "RBR", "ISI"],
+  "key": {
+    "I": { "item": "minecraft:iron_ingot" },
+    "S": { "item": "minecraft:string" },
+    "R": { "item": "minecraft:redstone" },
+    "B": { "item": "minecraft:slime_ball" }
+  },
+  "result": { "item": "webshooter:web_shooter", "count": 1 }
+}
